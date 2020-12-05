@@ -1,0 +1,28 @@
+.place__header{
+    margin-bottom: 32px ;
+
+}
+
+@media screen and (min-width: 768px){
+    .place__header{
+        max-width: 340px;
+        margin: 0 28px 73px 0;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+    .place__header{
+        max-width: 440px;
+        margin: 0 32px 80px 0;
+    }
+
+}
+
+@media screen and (min-width: 1280px){
+    .place__header{
+        max-width: 460px;
+        margin: 0 40px 80px 0;
+    }
+
+}

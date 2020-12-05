@@ -1,0 +1,22 @@
+.place__text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 165%;
+    color: #FFFFFF;
+    margin: 0 16px 25px 16px;
+}
+.place__text:nth-child(2n){
+    margin: 0 16px 0 16px;
+}
+
+
+@media screen and (min-width: 1024px){
+    .place__text{
+    font-size: 18px;
+    line-height: 163%;
+    }
+  
+}
+
+

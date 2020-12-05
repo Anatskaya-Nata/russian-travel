@@ -1,0 +1,17 @@
+.place__link{
+    display: none;   
+}
+
+@media screen and (min-width: 768px){
+    .place__link{
+        display: flex;
+        flex-direction: column;
+        align-self: end;
+        justify-self: start;
+    }
+
+}
+
+
+
+

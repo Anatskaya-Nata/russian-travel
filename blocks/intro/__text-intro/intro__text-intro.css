@@ -1,0 +1,26 @@
+.intro__text-intro{
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 163%;
+color: #FFFFFF;
+margin: 0;
+padding: 0 0 42px 0;
+}
+
+@media screen and (min-width: 768px){
+    .intro__text-intro{
+        padding: 0 0 42px 0;
+     
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .intro__text-intro{
+    max-width: 690px;
+    }
+}
+
+
+
+

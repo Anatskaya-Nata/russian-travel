@@ -1,0 +1,24 @@
+.root{
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-family: 'Inter var','Arial' sans-serif;
+    /*min-width: 320px;*/
+    max-width: 100%;
+    overflow-x: hidden;
+    background: #2A2C2F;
+    padding: 16px 16px 0;
+    /*margin: 16px 16px 0;*/
+}
+
+@media screen and (min-width: 768px){
+    .root{
+        padding: 28px 24px 0;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+    .root{
+        padding: 28px 48px 0;
+    }
+
+}
