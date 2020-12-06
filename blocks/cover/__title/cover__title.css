@@ -1,4 +1,6 @@
 .cover__title{
+
+    display: flex;
     max-width: 254px;
     font-weight: 900;
     font-size: 32px;
@@ -6,9 +8,11 @@
     padding-bottom: 16px;
     text-align: center;
     color: #FFFFFF;
-    position: relative;
+  position: relative;
     text-decoration: none;
     margin: 0;
+top: 50%;
+
 }
 
 
@@ -18,8 +22,8 @@
     max-width: 560px;
     font-size: 72px;
     line-height: 76px;
-   
-    padding-bottom: 32px;
+    padding:0 0 32px;
+  
  }
 }
 
