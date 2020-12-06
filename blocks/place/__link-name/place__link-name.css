@@ -6,3 +6,7 @@
     color: #FFFFFF;
 }
 
+.place__link-name:hover{
+    opacity: 0.8;
+    
+}

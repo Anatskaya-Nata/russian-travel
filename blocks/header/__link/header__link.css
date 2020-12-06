@@ -3,8 +3,9 @@
     font-size: 18px;
     line-height: 20px;
     font-weight: normal;
-    text-decoration: none;
-    text-decoration: underline;
+text-decoration: none;
+    
+   
  
 
   
@@ -12,7 +13,7 @@
 
 .header__link:nth-last-child(1){
     padding:0 0 0 15px;
-    text-decoration: none;
+   
 
 }
 
