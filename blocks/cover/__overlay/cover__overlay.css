@@ -28,7 +28,7 @@ cursor: pointer;
 
 @media screen and (min-width: 768px){
 .cover__overlay{
-min-height: 780px;
+min-height: 480px;
 } 
 }
 

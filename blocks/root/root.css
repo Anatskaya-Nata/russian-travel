@@ -1,13 +1,12 @@
 .root{
     font-family: 'Inter', 'Arial', sans-serif;
-
- 
     max-width: 100%;
-    overflow-x: hidden;
     background: #2A2C2F;
     padding: 16px 16px 0;
-  
-}
+   
+  }
+
+
 
 @media screen and (min-width: 768px){
     .root{
@@ -22,3 +21,5 @@
     }
 
 }
+
+
